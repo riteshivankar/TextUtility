@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textConvesion/static/css/main.4de3fca3.css",
+    "main.js": "/textConvesion/static/js/main.61070f35.js",
+    "static/js/453.b06c4831.chunk.js": "/textConvesion/static/js/453.b06c4831.chunk.js",
+    "index.html": "/textConvesion/index.html",
+    "main.4de3fca3.css.map": "/textConvesion/static/css/main.4de3fca3.css.map",
+    "main.61070f35.js.map": "/textConvesion/static/js/main.61070f35.js.map",
+    "453.b06c4831.chunk.js.map": "/textConvesion/static/js/453.b06c4831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de3fca3.css",
+    "static/js/main.61070f35.js"
+  ]
+}
